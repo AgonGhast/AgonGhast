@@ -3,7 +3,7 @@
 - Current Projects:
 -   AutoBar 2.0 - Automatic drink mixer with mobile app
 -   Radio Buddy - IoT internet radio dongle to play audio only content of livestreams over speakers
--
+-   Messing around with Minecraft mods
 
 
 
